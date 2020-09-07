@@ -14,9 +14,8 @@ https://github.com/yysijie/st-gcn
 * A simulated virtual environment project (using Unity 3D in C#)can be found in google drive: 
 https://drive.google.com/file/d/1soYIrwCWAmmvXzajIpmVFe5DvwvXIbCw/view?usp=sharing
 
-<img src="image/Slide9.png" width="400">
-
 
 * The video showing two demos (VR demo and onsite demo) can be found in: 
 https://www.youtube.com/watch?v=5-30Z7Omugw
 
+<img src="image/Slide9.PNG" width="400">
