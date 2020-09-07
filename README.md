@@ -18,4 +18,4 @@ https://drive.google.com/file/d/1soYIrwCWAmmvXzajIpmVFe5DvwvXIbCw/view?usp=shari
 * The video showing two demos (VR demo and onsite demo) can be found in: 
 https://www.youtube.com/watch?v=5-30Z7Omugw
 
-<img src="image/Slide9.PNG" width="400">
+<img src="image/Slide9.PNG" width="600">
