@@ -2,7 +2,7 @@
 
 NEOM AI Challenge Code
 
-![Smart Tap Illustration](./image/illustration.png =250x)
+<img src="image/illustration.png" width="200">
 
 ![Smart Tap Illustration](/image/illustration.png =150x)
 
