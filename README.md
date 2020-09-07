@@ -6,7 +6,10 @@ In folder Python-Kinect: There are several different version of codes: a). GPU: 
 
 We are using PyKinectV2 library to read body joints information from a Kinect sensor. A trained GCN (graph convolutional network) is used to classify the body joints information and the classified result will indicate the on/off of the tap.
 
-A simulated virtual environment project can be found in google drive: 
+The GCN model we are using can be found here:
+https://github.com/yysijie/st-gcn
+
+A simulated virtual environment project (using Unity 3D in C#)can be found in google drive: 
 https://drive.google.com/file/d/1soYIrwCWAmmvXzajIpmVFe5DvwvXIbCw/view?usp=sharing
 
 The video showing two demos (VR demo and onsite demo) can be found in: 
