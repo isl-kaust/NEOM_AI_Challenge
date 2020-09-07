@@ -2,9 +2,9 @@
 
 NEOM AI Challenge Code
 
-![Smart Tap Illustration](image/illustration.png=250x)
+![Smart Tap Illustration](./image/illustration.png=250x)
 
-![Smart Tap Illustration](/image/illustration.png=150x)
+![Smart Tap Illustration](./image/illustration.png=150x)
 
 
 In folder Python-Kinect: There are several different version of codes: a). GPU: using GPU to process joint data; b). MCU: send tap status to MCU for tap control; c). send tap status to Unity (virtual environment).
